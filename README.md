@@ -1,1 +1,1 @@
-# allcups
+# The All-Russian Olympiad on Artificial Intelligence 2024 for students of grades 8-11, the 2nd level of the Olympiad in the list of the RSOSH 2024/2025 academic year, is included in the list of the Ministry of Education of Russia for the 2024/2025 academic year
